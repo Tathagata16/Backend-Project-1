@@ -5,12 +5,14 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js"
-
   },
   "author": "tatha",
   "license": "ISC",
   "description": "",
   "dependencies": {
     "nodemon": "^3.1.9"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3"
   }
 }
